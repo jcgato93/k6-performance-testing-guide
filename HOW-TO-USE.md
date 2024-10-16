@@ -7,7 +7,7 @@
 - Run the command
 
 ```shell
-docker-compose up -d
+docker-compose up influxdb grafana -d
 ```
 
 - After that you can access to the Grafana dashboard in localhost:3000
